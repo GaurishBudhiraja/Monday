@@ -1,4 +1,4 @@
 # Monday
 Inititation of Monday AIOS
 
-##Building a kernel for ISHAL
+## Building a kernel for ISHAL
