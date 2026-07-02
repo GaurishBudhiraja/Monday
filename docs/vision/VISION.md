@@ -60,7 +60,7 @@ MONDAY is built upon the following principles.
 
 Users should express goals rather than individual commands.
 
-Instead of telling the computer *how* to perform a task, users simply describe *what* they want to accomplish.
+Instead of telling the computer _how_ to perform a task, users simply describe _what_ they want to accomplish.
 
 MONDAY is responsible for planning and executing the necessary steps.
 
